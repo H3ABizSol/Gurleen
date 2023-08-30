@@ -6,7 +6,7 @@ export const Header = () => {
     <header>
       <nav>
         <h1>
-          <NavLink to="/">GURLEEN</NavLink>
+          <NavLink to="/">GURLEEN RUNS</NavLink>
         </h1>
       </nav>
     </header>

@@ -21,8 +21,8 @@ export const Home = () => {
         <div className="left">
           <h3>About Me</h3>
           <p>
-            I am ultra runner, marathon and wellness coach. I help people to
-            tranform their body & guide people who to run a marathon.
+            I am a tiger mom, ultra runner, marathon and wellness coach. I help
+            people to tranform their body & guide people who to run a marathon.
           </p>
         </div>
         <div className="right">

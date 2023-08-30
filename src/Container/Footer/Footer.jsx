@@ -42,7 +42,7 @@ export const Footer = () => {
           </ul>
         </div>
         <div className="copyright">
-          <p>© Copyright 2023, all right reserved Demo</p>
+          <p>© Copyright 2023,</p>
         </div>
       </footer>
     </>
